@@ -1,0 +1,26 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "guru99 tutorial",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g3john/nodeJSTutorial.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "John <john@lacunatec.com> (lacunatec.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g3john/nodeJSTutorial/issues"
+  },
+  "homepage": "https://github.com/g3john/nodeJSTutorial#readme"
+}
